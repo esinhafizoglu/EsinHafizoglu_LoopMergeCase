@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_Arrow 1
+  m_Name: M_Arrow_01
   m_Shader: {fileID: -6465566751694194690, guid: 55e7b92563897a044b956bd3342266f9, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -32,12 +32,12 @@ Material:
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
     - _Scale: 1
-    - _ScrollSpeed: 1
+    - _ScrollSpeed: -1
     m_Colors:
-    - _ArrowColor: {r: 1, g: 0.5261691, b: 0.26981127, a: 1}
-    - _BackGroundColor: {r: 0.31863734, g: 0.28275535, b: 0.5698112, a: 1}
-    - _Scale: {r: 0.5, g: 1, b: 0, a: 0}
-    - _Vector2: {r: 1, g: 1, b: 0, a: 0}
+    - _ArrowColor: {r: 0.51849324, g: 0.37011746, b: 0.86415094, a: 1}
+    - _BackGroundColor: {r: 1, g: 0.6911374, b: 0.1566037, a: 1}
+    - _Scale: {r: 1, g: 2, b: 0, a: 0}
+    - _Vector2: {r: 1, g: 1.5, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &8772440957615675290
 MonoBehaviour:
